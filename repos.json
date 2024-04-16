@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "holi-KernelSU",
+      "repo": "https://github.com/IamAzmathullaShaikh/kernel_msm-5.4GKI_holi",
+      "branch": "ONEPLUS_NORD_CE3LITE_5G",
+      "device": "holi"
     },
     "withKernelSU": true,
     "toolchains": [
