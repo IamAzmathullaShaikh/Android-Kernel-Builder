@@ -1,11 +1,11 @@
 [  {
     "kernelSource": {
       "name": "holi-KernelSU",
-      "repo": "https://github.com/IamAzmathullaShaikh/kernel_msm-5.4GKI_holi.git",
-      "branch": "ONEPLUS_NORD_CE3LITE_5G",
+      "repo": "https://github.com/tangalbert919/android_kernel_oneplus_sm6375.git",
+      "branch": "lineage-20",
       "device": "holi"
     },
-    "withKernelSU": true,
+    "withKernelSU": true
     "toolchains": [
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
